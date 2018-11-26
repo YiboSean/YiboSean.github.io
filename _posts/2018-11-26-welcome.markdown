@@ -10,6 +10,8 @@ This is `🐍's log`. Go ahead and edit it and re-build the site to see `🐍's 
 HAPPY FIRST DAY
 {% endhighlight %}
 
+![pic](/assets/img/avatar.jpeg)
+
 <!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
