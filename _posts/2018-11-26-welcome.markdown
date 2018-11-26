@@ -2,9 +2,9 @@
 layout: post
 title:  "Welcome!"
 date:   2018-11-26 11:06:59 +0800
-categories: log
+categories: blog
 ---
-This is `🐍's log`. Go ahead and edit it and re-build the site to see `🐍's daily`.
+This is `🐍's blog`. Go ahead and edit it and re-build the site to see `🐍's daily`.
 
 {% highlight ruby %}
 HAPPY FIRST DAY
